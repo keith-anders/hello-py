@@ -1,4 +1,4 @@
-#!../../venv/bin/python
+#!venv/bin/python
 """Runs the program
 """
 import sys

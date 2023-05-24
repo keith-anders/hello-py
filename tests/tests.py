@@ -1,4 +1,4 @@
-#!../venv/bin/python
+#!venv/bin/python
 """Unit tests for the calculator
 """
 import unittest
